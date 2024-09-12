@@ -1,0 +1,1 @@
+I created a small Python file that recognizes voice commands. In the makeTask function, you can add commands to which it will respond, as well as functions that it will perform, it is not necessary to open the site, only an example is provided here. If you want to make your own voice assistant, this file can be your starting point ;)
